@@ -1,0 +1,5 @@
+com\ecommerwebsite\Ecommerce\EcommerceApiApplication.class
+com\ecommerwebsite\Ecommerce\ProductService.class
+com\ecommerwebsite\Ecommerce\ProductRepository.class
+com\ecommerwebsite\Ecommerce\entity\Product.class
+com\ecommerwebsite\Ecommerce\controller\ProductController.class
